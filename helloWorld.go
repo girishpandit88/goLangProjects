@@ -18,10 +18,10 @@ func main() {
 	}
 	age := make(map[string]int)
 
-	age["girish"] = 27
-	age["rashmi"] = 26
+	age["me"] = 27
+	age["her"] = 26
 
-	fmt.Println(age["girish"])
+	fmt.Println(age["me"])
 
 	listNums := []float64{1, 2, 3, 4, 5}
 
